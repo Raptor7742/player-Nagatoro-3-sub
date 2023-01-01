@@ -37,7 +37,7 @@ const playerInstance = jwplayer("player").setup({
         },
         {
           file:
-            "",
+            "https://m110.syncusercontent.com/mfs-60:4a3840d84a78ea5efb8683bf3366a8c3=============================/p/épisode%203.mp4?allowdd=0&datakey=oIstlU/XEXH/TXNTJ7JZW7/0FbmMAf/eU5EfXC+OwLTgPL+ulsNhOI0sQp6epsbt67mErlF6bggRBvmlgwRPn0lGXy+hHIGMum4WGVbxRtBc1iTxU9os5GR/X2Ud8T9YACM1ZDVPPgda9z1Q3rfEFBmjsHi8sRcGyvDWtuP3DVH01Jcd5QeKU+pAakDFPsJ9NRjIHUaOkud8NH35B4OKN+UtRuzI38bM860SGOdpK1uCifsu6CX6jRiqunSde6Hka+o3MFpr2ySU5tsAa9sEAR5i4bHNVyt3esUlHyFnVY4wwmfzu/d6UY5lXkFzkQvPSQvNByXdb4zA4g02WMOuHw&engine=ln-2.3.7.3&errurl=ZJPl4jZ0DAHdVJDOOitnu25wfOanjJcPgdt0JsP5bzq8vQdnoAxtEXuk07nrNb8d61OusDphlx0J7ti7RYCCKCdU0sO9n5GVPbeqF//PxxBImxgzySjN2UWj9mAV93WjRQacMzrmXFt4bXnBGN7v9RKu8p453Rou3KwQTRfD9EAcjB7U2Z+RUX24+lNcoZqHGzlLEyXroU1PqVEa+8pBC6edaj9A/7KklD9Gg+DwJxTzgM8OqMZFA6prEfAaMWwoZpy5qUgquxwqldY+J1KXFcVRZsjNuc3N1N+AvXH1yrZsCUaE9RvQoddRCEmO0PM7golf/8O0pkyMz1JgQV+qBw==&header1=Q29udGVudC1UeXBlOiB2aWRlby9tcDQ&header2=Q29udGVudC1EaXNwb3NpdGlvbjogaW5saW5lOyBmaWxlbmFtZT0iJUMzJUE5cGlzb2RlJTIwMy5tcDQiO2ZpbGVuYW1lKj1VVEYtOCcnJUMzJUE5cGlzb2RlJTIwMy5tcDQ7&ipaddress=1458994159&linkcachekey=85c672ca0&linkoid=1982860011&mode=101&sharelink_id=9628443710011&timestamp=1672607315632&uagent=220523ca5285197b0fad467e0e72e6907a6c5738&signature=fded5fc2c8b1e0dbd69b635aadde5939003c2b59&cachekey=60:4a3840d84a78ea5efb8683bf3366a8c3=============================",
           label: "720p"
         },
         {
